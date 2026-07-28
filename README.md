@@ -57,8 +57,8 @@ Add one departure per row. For example:
 
 ```csv
 kind,route_name,destination,departure_time,platform
-bus,大楽毛線,釧路駅,07:40,高専前
-train,根室本線,釧路方面,07:27,大楽毛駅
+bus,○○線,○○駅,07:40,○○前
+train,○○本線,○○方面,07:27,○○駅
 ```
 
 | Column | Required | Description |
