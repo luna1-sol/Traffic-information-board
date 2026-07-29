@@ -34,8 +34,7 @@ digital-board/
 ├── dist/                    # Release binary output
 └── docs/
     ├── build.md                          # Build instructions for macOS and Ubuntu
-    ├── operation-manual.md               # Open-campus operation manual
-    └── open-campus-holiday-timetable.csv # Example timetable CSV
+    └── sample.csv # Example timetable CSV
 ```
 
 ## Requirements
