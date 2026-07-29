@@ -33,8 +33,8 @@ digital-board/
 │   └── build-release.sh     # Cross-build script for macOS and Ubuntu
 ├── dist/                    # Release binary output
 └── docs/
-    ├── build.md                          # Build instructions for macOS and Ubuntu
-    └── sample.csv # Example timetable CSV
+    ├── build.md             # Build instructions for macOS and Ubuntu
+    └── sample.csv           # Example timetable CSV
 ```
 
 ## Requirements
