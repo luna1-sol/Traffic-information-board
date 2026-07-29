@@ -47,7 +47,7 @@ digital-board/
 
 ## CSV Format
 
-Use [docs/open-campus-holiday-timetable.csv](docs/open-campus-holiday-timetable.csv) as a reference when creating a timetable. Save the file as UTF-8 CSV. The first row must contain the following header in exactly this order:
+Use [docs/open-campus-holiday-timetable.csv](docs/sample.csv) as a reference when creating a timetable. Save the file as UTF-8 CSV. The first row must contain the following header in exactly this order:
 
 ```csv
 kind,route_name,destination,departure_time,platform
