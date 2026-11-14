@@ -1,5 +1,7 @@
 # Traffic Information Board
 
+English | [日本語](README.ja.md)
+
 A system for displaying upcoming bus and train departure times on a large monitor.
 
 - Display board (`/`): Shows upcoming departures in the style of an electronic information board.
